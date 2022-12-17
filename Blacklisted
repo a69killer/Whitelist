@@ -1,0 +1,6 @@
+local whitelist = {
+"Nikodemusx","EthicalDestruction"
+}
+local blacklist = {
+"thedragonslayeralt17"
+}
